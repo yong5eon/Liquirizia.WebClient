@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from Liquirizia.WebApplication.Client import Client
+from Liquirizia.WebClient import Client
 
 
 if __name__ == '__main__':
