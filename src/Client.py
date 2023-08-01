@@ -3,7 +3,7 @@
 from Liquirizia.WebApplication.Response import Response
 from Liquirizia.WebApplication.Util import VersionToString
 
-from Liquirizia.WebApplication.Serializer import SerializerHelper
+from Liquirizia.Serializer import SerializerHelper
 
 from http.client import HTTPConnection, HTTPSConnection
 from http.cookies import SimpleCookie
